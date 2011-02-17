@@ -1,0 +1,8 @@
+useDynLib(bayespack)
+
+export(banint, exlogPost, exlogPost2, viewDoc)
+S3method(print, bayespack)
+S3method(summary, bayespack)
+S3method(print, summary.bayespack)
+
+
