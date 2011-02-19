@@ -14,7 +14,7 @@
 
 ## faux.vignette function from Roger Koenker's quantreg package
 viewDoc <- function(topic){
-  pkg <- "BAYESPACK"
+  pkg <- "bayespack"
   if(missing(topic)){
     dir <- system.file("doc", package = pkg)
     return(gsub(".pdf","", list.files(dir,".pdf")))

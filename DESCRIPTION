@@ -1,8 +1,8 @@
 Package: bayespack
 Type: Package
 Title: Numerical Integration for Bayesian Inference
-Version: 1.0-1
-Date: 2011-02-17
+Version: 1.0-2
+Date: 2011-02-19
 Suggests: sn
 Author: Alan Genz (BAYESPACK Fortran source code) and Bjoern Bornkamp
         (R interface and minor adaptions in Fortran source code)
@@ -15,6 +15,6 @@ Description: The bayespack package provides an R interface to the
         functions of the parameters can be calculated as well.
 License: GPL
 LazyLoad: yes
-Packaged: 2011-02-16 23:04:51 UTC; bjoern
+Packaged: 2011-02-18 23:57:01 UTC; bjoern
 Repository: CRAN
-Date/Publication: 2011-02-17 13:07:37
+Date/Publication: 2011-02-19 09:06:49

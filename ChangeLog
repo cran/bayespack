@@ -1,0 +1,5 @@
+2011-02-19  Bjoern Bornkamp  <bbnkmp@gmail.com> (version 1.0-2)
+
+	* tools.R: Changed typo in viewDoc function. Thanks to Gabor
+	Grothendieck for spotting this.
+
